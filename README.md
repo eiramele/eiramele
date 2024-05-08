@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! 👋
 
 <!--
 **eiramele/eiramele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Eira, a web developer based in Barcelona. My curiosity for programming and the tech world motivated me to change careers and fully immerse myself in this field. I've learned on my own and also completed a web programming course on software development, where I developed skills in both front-end and back-end development. Previously, I worked as a linguist and web content editor, which is why I believe in the importance of clean and well-organized code.
+
+ 
