@@ -24,7 +24,7 @@ I'm Eira, a web developer based in Barcelona. My curiosity for programming and t
 - :cake: E-commerce: individual project of a mobile-first cake shop application developed with Typescript and React.
 
 ## Languages and Tools
-![html-5](https://github.com/eiramele/eiramele/assets/112983850/2cb39a3a-1720-4bd8-aaa3-dca0006c6181) 
+![html-5](https://github.com/eiramele/eiramele/assets/112983850/2cb39a3a-1720-4bd8-aaa3-dca0006c6181) HTML
 ![javascript](https://github.com/eiramele/eiramele/assets/112983850/511a627c-caa2-46b0-9c40-e98ff31be4c8)
 ![typescript](https://github.com/eiramele/eiramele/assets/112983850/4de50f36-f0a5-44d7-8d55-0c89071f8e2e)
 ![ReactJS](https://github.com/eiramele/eiramele/assets/112983850/dd793664-59ce-40b4-80c1-9e0335e4acf3)
