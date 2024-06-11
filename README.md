@@ -19,8 +19,8 @@ I'm Eira, a web developer based in Barcelona. My curiosity for programming and t
  
 ## My projects
 
-- :headphones: Apollofy: group project where we developed a music app similar to Spotify with Typescript, React, PostgreSQL, NodeJS, Express and Primsa, and followed the Scrum methodology. 
-- :clapper: Movie-hub: individual full-stack project to create a movie database, developed with NextJS, Typescript, PostgreSQL, NodeJS, Express and Primsa.
+- :headphones: Apollofy: group project where we developed a music app similar to Spotify with Typescript, React, Tailwind, PostgreSQL, NodeJS, Express, Primsa, React-Testing-Library and Vitest and followed the Scrum methodology. 
+- :clapper: Movie-hub: individual full-stack project to create a movie database, developed with NextJS, Typescript, Auth0, PostgreSQL, NodeJS, Express and Primsa.
 - :cake: E-commerce: individual project of a mobile-first cake shop application developed with Typescript and React.
 
 ## Languages and Tools
